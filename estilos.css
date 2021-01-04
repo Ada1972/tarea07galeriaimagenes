@@ -1,0 +1,33 @@
+/*ELEMENTOS CON PROPIEDADES*/
+body{
+    background-color: #D9D9D9;
+}
+   
+/*ELEMENTOS.TAGS CON ID*/
+#título{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #ffffff;
+    margin: 10px;
+    height: 100px;
+}
+#contenidocentral{
+    background-color: #ffffff;
+    margin-top: 1px;
+    margin: 10px;
+}
+/*ELEMENTOS.TAGS CON CLASS*/
+
+.cuadro{
+    background-color: #D9D9D9;
+    padding: 10px;
+    margin: 30px;
+    display: inline-block;
+}
+.texto{
+   
+    background-color: #ffffff;
+    padding: 10px;
+    text-align:justify;
+}
