@@ -1,11 +1,11 @@
 /*ELEMENTOS CON PROPIEDADES*/
 body{
     background-color: #D9D9D9;
+     font-family: Arial, Helvetica, sans-serif;
 }
    
 /*ELEMENTOS.TAGS CON ID*/
 #título{
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     text-transform: uppercase;
     background-color: #ffffff;
